@@ -2,5 +2,5 @@ streamlit
 flask
 numpy
 pandas
-tensorflow
+tensorflow==2.15.1
 
