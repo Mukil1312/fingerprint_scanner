@@ -1,6 +1,5 @@
-streamlit
 flask
 numpy
 pandas
 tensorflow==2.15.1
-
+streamlit==1.40.2
