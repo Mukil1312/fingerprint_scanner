@@ -2,3 +2,5 @@ streamlit
 flask
 numpy
 pandas
+tensorflow
+
